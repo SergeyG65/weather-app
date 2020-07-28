@@ -30,6 +30,10 @@ h1 {
     font-size: 64px;
 }
 
+img {
+    width: 250px;
+}
+
 header a {
     color: #888888;
     margin-right: 16px;
