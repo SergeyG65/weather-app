@@ -10,8 +10,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.1",
     "hbs": "^4.1.1",
     "request": "^2.88.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeyG65/weather-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SergeyG65/weather-app/issues"
+  },
+  "homepage": "https://github.com/SergeyG65/weather-app#readme"
 }
